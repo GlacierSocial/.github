@@ -1,2 +1,0 @@
-# Glacier
-ActivityPub-based socials.

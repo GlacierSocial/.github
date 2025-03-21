@@ -1,1 +1,2 @@
-# .github
+# Glacier
+ActivityPub-based socials.
